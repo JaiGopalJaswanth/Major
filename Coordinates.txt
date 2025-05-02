@@ -1,0 +1,8 @@
+Imports (2 entries)
+var studyArea: polygon, 36 vertices
+var imageVisParam: LST from 29.201271281326864 to 43.74724099203968
+bands: ["LST"]
+max: 43.74724099203968
+min: 29.201271281326846
+opacity: 1
+palette: ["1100ff","00ddff","fffe00","ff8700","ff0000"]
